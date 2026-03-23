@@ -102,11 +102,11 @@ Durante la actividad, un integrante perdió conexión.
 - Se dejó registro claro para reintegración posterior
 
 ## Lista de tareas completadas
-- ✔ Definición del problema
-- ✔ Funcionalidades
-- ✔ Roles del sistema
-- ✔ Flujo de uso
-- ✔ Documento final
+- Definición del problema
+- Funcionalidades
+- Roles del sistema
+- Flujo de uso
+- Documento final
 
 ## Organización del equipo
 - Moderador: Coordinó la actividad (Luis Santizo)
